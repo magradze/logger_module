@@ -1,7 +1,7 @@
 /**
  * @file logger_module.c
  * @brief ლოგერ მოდულის იმპლემენტაცია - ცენტრალიზებული ლოგირება და ივენთების მონიტორინგი
- * @author Synapse Framework Team
+ * @author Giorgi Magradze
  * @version 2.2.0
  * @date 2025-08-09
  */

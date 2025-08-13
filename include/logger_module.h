@@ -5,7 +5,7 @@
  *          all events from the Event Bus and optionally outputting them to
  *          the serial console for debugging purposes. It supports runtime
  *          enable/disable through framework command events.
- * @author Synapse Framework Team
+ * @author Giorgi Magradze
  * @version 1.1.0
  * @date 2025-06-26
  */

@@ -4,7 +4,7 @@
  * @details This header file contains all configuration constants, default values,
  *          and compile-time settings for the logger module. It centralizes
  *          configuration management and integrates with the Kconfig system.
- * @author Synapse Framework Team
+ * @author Giorgi Magradze
  * @version 1.1.0
  * @date 2025-06-26
  */

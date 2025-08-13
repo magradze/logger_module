@@ -1,6 +1,6 @@
 # Logger Module CMake Configuration
 # Component for centralized logging and event monitoring
-# Author: Synapse Framework Team
+# Author: Giorgi Magradze
 # Version: 1.1.0
 
 # SMART CONDITIONAL COMPILATION SYSTEM:
